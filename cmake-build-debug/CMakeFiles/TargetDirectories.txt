@@ -1,3 +1,0 @@
-D:/Projects/CLion/GrafikaLab4_myszka/cmake-build-debug/CMakeFiles/GrafikaLab4_myszka.dir
-D:/Projects/CLion/GrafikaLab4_myszka/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Projects/CLion/GrafikaLab4_myszka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
